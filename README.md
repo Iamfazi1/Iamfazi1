@@ -43,17 +43,26 @@ Here are all the badges I’ve collected on my cyber quest:
 ---
 
 ### 🛠️ Tools I Use
+<p align="center">
+  <strong>📊 Tools Proficiency Table</strong>
+</p>
 
-- **Splunk**: For SIEM, threat detection, and monitoring.
-- **Wireshark**: For network traffic analysis and incident response.
-- **XDR Solutions**: Leveraging Extended Detection and Response for endpoint and network security.
-- **Suricata**: For Intrusion Detection and Prevention.
-- **Elastic Stack**: For log analysis, searching, and visualization.
-- **Aircrack-ng**: For wireless security testing.
-- **Metasploit**: For penetration testing and vulnerability assessments.
-- **Kali Linux**: A go-to OS for penetration testing.
-- **Nmap**: For network mapping and vulnerability scanning.
-- **Burp Suite**: For web application security testing.
+<div align="center">
+
+| Tool                     | Proficiency       |
+|--------------------------|------------------|
+| 🛡️ SIEM                  | ▓░░░░░ (0.1%)     |
+| 🧠 EDR                   | ▓░░░░░ (0.1%)     |
+| 🤖 SOAR                  | ▓░░░░░ (0.1%)     |
+| 🔥 Firewall              | ▓░░░░░ (0.1%)     |
+| 🚨 IDS/IPS               | ▓░░░░░ (0.1%)     |
+| 🕵️ Vulnerability Scanner | ▓░░░░░ (0.1%)     |
+| 🌐 Threat Intelligence   | ▓░░░░░ (0.1%)     |
+| 🤖 ChatGPT (AI Buddy)    | ███████ (101%)    |
+
+</div>
+
+
 
 ---
 
