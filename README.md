@@ -21,18 +21,21 @@ Hello, I'm **Faizan Shakir**, a passionate **SOC Analyst**, **Blue Teamer**, and
 
 ---
 
-### 📈 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/(ISC)2%20Certified%20in%20Cybersecurity%20%28CC%29-blue?logo=ISC2&style=for-the-badge" alt="ISC2 Certified">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-blue?logo=CompTIA&style=for-the-badge" alt="CompTIA Security+">
-  <img src="https://img.shields.io/badge/Blue%20Team%20Level%201%20%28BTL1%29-orange?style=for-the-badge" alt="BTL1">
-  <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-green?style=for-the-badge" alt="TryHackMe SOC Level 1">
-  <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%202-green?style=for-the-badge" alt="TryHackMe SOC Level 2">
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-blue?logo=google&style=for-the-badge" alt="Google Cybersecurity Certificate">
-  <img src="https://img.shields.io/badge/EC--Council%20SOC%20Analyst%20%28CSA%29-blue?logo=EC-Council&style=for-the-badge" alt="EC-Council SOC Analyst">
-  <img src="https://img.shields.io/badge/Microsoft%20SC--200%20-%20Security%20Operations%20Analyst%20-blue?logo=microsoft&style=for-the-badge" alt="Microsoft SC-200">
-  <img src="https://img.shields.io/badge/Splunk%20Certification-yellow?logo=splunk&style=for-the-badge" alt="Splunk Certification">
+### 📜 Certifications
+
+Here are all the badges I’ve collected on my cyber quest:
+
+<p>
+  <img src="https://img.shields.io/badge/(ISC)²%20CC-Certified%20in%20Cybersecurity-00CCFF?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security+-E31B23?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-BTL1-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%202-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Professional%20Cybersecurity%20Cert-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20(CSA)-ff0000?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-Certified-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 
