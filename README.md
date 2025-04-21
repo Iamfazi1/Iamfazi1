@@ -44,23 +44,9 @@ Here are all the badges I’ve collected on my cyber quest:
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <strong>📊 Tools Proficiency Table</strong>
+  <img src="ezgif-397b8788e5b34d.gif" alt="Hacker Animation" width="400" />
 </p>
 
-<div align="center">
-
-| Tool                     | Proficiency       |
-|--------------------------|------------------|
-| 🛡️ SIEM                  | ▓░░░░░ (0.1%)     |
-| 🧠 EDR                   | ▓░░░░░ (0.1%)     |
-| 🤖 SOAR                  | ▓░░░░░ (0.1%)     |
-| 🔥 Firewall              | ▓░░░░░ (0.1%)     |
-| 🚨 IDS/IPS               | ▓░░░░░ (0.1%)     |
-| 🕵️ Vulnerability Scanner | ▓░░░░░ (0.1%)     |
-| 🌐 Threat Intelligence   | ▓░░░░░ (0.1%)     |
-| 🤖 ChatGPT (AI Buddy)    | ███████ (101%)    |
-
-</div>
 
 
 
