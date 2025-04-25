@@ -21,24 +21,22 @@ Hello, I'm **Faizan Shakir**, a passionate **SOC Analyst**, **Blue Teamer**, and
 
 ---
 
-
 ### 📜 Certifications
 
 Here are all the badges I’ve collected on my cyber quest:
 
 <p>
-  <img src="https://img.shields.io/badge/(ISC)²%20CC-Certified%20in%20Cybersecurity-00CCFF?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security+-E31B23?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-BTL1-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%202-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Professional%20Cybersecurity%20Cert-34A853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/EC--Council-Certified%20SOC%20Analyst%20(CSA)-ff0000?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA+-0078D4?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security+-E31B23?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/(ISC)²%20CC-Certified%20in%20Cybersecurity-00CCFF?style=for-the-badge&logo=linuxfoundation&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-Certified-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%202-darkred?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-BTL1-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Professional%20Cybersecurity%20Cert-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
-
 
 ---
 
